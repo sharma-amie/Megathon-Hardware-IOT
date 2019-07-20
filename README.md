@@ -16,3 +16,9 @@ roomId:testroom
 applianceId:testappliance
 
 Url is used to check the status of the user appliances running or not in the specific house of specific room.
+
+Arduino IDE
+it is use to write code in c programming langauage and used to upload in the ESP8266 device.
+
+Arduino IDE Software 
+https://www.arduino.cc/en/main/software
